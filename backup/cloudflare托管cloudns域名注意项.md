@@ -1,4 +1,4 @@
-### 除了在cloudflare配置dns外还需要再cloudns配置两个NS**
+### 除了在cloudflare配置dns外还需要再cloudns配置两个NS
 - simon.ns.cloudflare.com
 - tess.ns.cloudflare.com
 
