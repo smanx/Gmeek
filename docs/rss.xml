@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://smanx.github.io/Gmeek</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://smanx.github.io/Gmeek</link></image><lastBuildDate>Mon, 12 Aug 2024 15:14:25 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>测试wifi教程</title><link>https://smanx.github.io/Gmeek/post/ce-shi-wifi-jiao-cheng.html</link><description>## 你好&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://smanx.github.io/Gmeek</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://smanx.github.io/Gmeek</link></image><lastBuildDate>Mon, 12 Aug 2024 15:26:41 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>cloudflare托管cloudns域名注意项</title><link>https://smanx.github.io/Gmeek/post/cloudflare-tuo-guan-cloudns-yu-ming-zhu-yi-xiang.html</link><description>### 除了在cloudflare配置dns外还需要再cloudns配置两个NS**&#13;
+- simon.ns.cloudflare.com&#13;
+- tess.ns.cloudflare.com&#13;
+&#13;
+### 下图是在cloudflare配置www的指向后还需在cloudns的配置&#13;
+&lt;img width='1173' alt='截屏2024-08-12 23 22 52' src='https://github.com/user-attachments/assets/b43b158c-3d91-4530-97aa-c6a39f371837'&gt;&#13;
+。</description><guid isPermaLink="true">https://smanx.github.io/Gmeek/post/cloudflare-tuo-guan-cloudns-yu-ming-zhu-yi-xiang.html</guid><pubDate>Mon, 12 Aug 2024 15:26:11 +0000</pubDate></item><item><title>测试wifi教程</title><link>https://smanx.github.io/Gmeek/post/ce-shi-wifi-jiao-cheng.html</link><description>## 你好&#13;
 ### 很好&#13;
 #### 不好&#13;
 很不好。</description><guid isPermaLink="true">https://smanx.github.io/Gmeek/post/ce-shi-wifi-jiao-cheng.html</guid><pubDate>Mon, 12 Aug 2024 14:48:31 +0000</pubDate></item></channel></rss>
